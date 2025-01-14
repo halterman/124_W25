@@ -1,0 +1,8 @@
+print('        A')
+print('       A A')
+print('      A   A')
+print('     A     A')
+print('    AAAAAAAAA')
+print('   A         A')
+print('  A           A')
+print(' A             A')
