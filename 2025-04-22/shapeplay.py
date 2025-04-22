@@ -7,7 +7,7 @@ from person import Tool
 def measure(obj: Shape) -> float:
     return obj.area()
 
-r1 = Rectangle(Point(5, 10), 25, 10)
+r1 = Rectangle(Point(5, 10), 25, 8)
 
 # This DOES work because a rectangle is a shape
 print(measure(r1))
